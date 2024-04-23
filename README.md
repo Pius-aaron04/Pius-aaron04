@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I am Pius Aaron. I am an aspiring software engineer currently studying at ALX Africa
+- I'm currently Learning
+    * Python
+    * HTML
+    * CSS
+    * Javascript
+    * SQL.
+  Alongside bash scripting for DevOps and other tools like:
+    * puppet
+    * Git
+    * Postman ...
+- I'm looking forward to collaborate on open source projects
+- How to reach me:
+    * Whatsapp: +2349158578632
+    * Twitter: @ascii_pius
