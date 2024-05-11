@@ -17,4 +17,8 @@ I'm Pius Aaron, an aspiring software engineer currently honing my skills at ALX 
 #### 📫 How to reach me:
 - Whatsapp: [+2349158578632](https://wa.me/2349158578632)
 - Twitter: [@ascii_pius](https://twitter.com/ascii_pius)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pius-aaron04)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Pius' GitHub stats](https://github-readme-stats.vercel.app/api?username=pius-aaron04)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pius-aaron04&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
