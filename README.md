@@ -15,7 +15,6 @@ I'm Pius Aaron, an aspiring software engineer currently honing my skills at ALX 
 - Open source projects
 
 #### 📫 How to reach me:
-- Whatsapp: [+2349158578632](https://wa.me/2349158578632)
 - Twitter: [@ascii_pius](https://twitter.com/ascii_pius)
 
 
