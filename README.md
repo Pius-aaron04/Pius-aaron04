@@ -1,15 +1,19 @@
 ### Hi there 👋
 
-I'm Pius Aaron, an aspiring software engineer currently honing my skills at ALX Africa.
+I'm Pius Aaron, I'm an ALX certified software engineer currently.
 
-#### 🌱 I'm currently Learning:
+#### 🌱 My skills:
 - Python
+- NodeJs
 - HTML
 - CSS
 - Javascript
 - SQL
 - Bash scripting for DevOps
 - Other tools like Puppet, Git, and Postman
+
+### I am currently learning
+- Python FastAPI
 
 #### 👯 I'm looking forward to collaborate on:
 - Open source projects
