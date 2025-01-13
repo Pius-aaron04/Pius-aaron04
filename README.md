@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pius Aaron, I'm an ALX certified software engineer currently.
+I'm Pius Aaron, I'm an ALX certified software engineer.
 
 #### 🌱 My skills:
 - Python
@@ -9,7 +9,8 @@ I'm Pius Aaron, I'm an ALX certified software engineer currently.
 - CSS
 - Javascript
 - SQL
-- Bash scripting for DevOps
+- Bash
+- Linux
 - Other tools like Puppet, Git, and Postman
 
 ### I am currently learning
@@ -20,6 +21,7 @@ I'm Pius Aaron, I'm an ALX certified software engineer currently.
 
 #### 📫 How to reach me:
 - Twitter: [@ascii_pius](https://twitter.com/ascii_pius)
+- LinkedIn: [Pius Aaron](https://linkedin.com/in/Pius_aaron042)
 
 
 [![Pius' GitHub stats](https://github-readme-stats.vercel.app/api?username=pius-aaron04)](https://github.com/anuraghazra/github-readme-stats)
