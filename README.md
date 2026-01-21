@@ -9,8 +9,9 @@ I'm Pius Aaron, I'm an ALX certified software engineer.
 - CSS
 - Javascript
 - SQL
-- Bash
+- Bash scripting
 - Linux
+- Context prompt engineering
 - Other tools like Puppet, Git, and Postman
 
 ### I am currently learning
@@ -27,3 +28,6 @@ I'm Pius Aaron, I'm an ALX certified software engineer.
 [![Pius' GitHub stats](https://github-readme-stats.vercel.app/api?username=pius-aaron04)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pius-aaron04&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![](https://komarev.com/ghpvc/?username=Pius-aaron04)
