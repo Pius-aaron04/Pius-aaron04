@@ -1,33 +1,45 @@
-### Hi there 👋
+### Hi, I’m Pius Aaron 👋
 
-I'm Pius Aaron, I'm an ALX certified software engineer.
+I’m a backend-focused software engineer who enjoys building reliable systems, designing clean APIs, and debugging problems others overlook. I’m especially interested in how things work under the hood — from databases to Linux environments.
 
-#### 🌱 My skills:
-- Python
-- NodeJs
-- HTML
-- CSS
-- Javascript
-- SQL
-- Bash scripting
-- Linux
-- Context prompt engineering
-- Other tools like Puppet, Git, and Postman
+---
 
-### I am currently learning
-- Python FastAPI
+### 🛠 What I build
+- Backend services and RESTful APIs using **Node.js** and **Python**
+- Data-driven applications with **MongoDB** and **SQL**
+- Systems that prioritize correctness, clarity, and scalability
 
-#### 👯 I'm looking forward to collaborate on:
-- Open source projects
+---
 
-#### 📫 How to reach me:
+### ⚙️ Core technologies
+**Languages:** Python, JavaScript, Bash  
+**Backend:** Node.js, FastAPI (learning through building)  
+**Databases:** MongoDB, SQL  
+**Tools & Systems:** Git, Linux, Postman, Puppet  
+
+---
+
+### 🧠 How I think about engineering
+- I value clear abstractions over clever hacks  
+- I enjoy tracing bugs to their root cause  
+- I prefer understanding fundamentals before frameworks  
+
+---
+
+### 🤝 Open to
+- Open-source collaboration
+- Backend-heavy projects
+- Systems and infrastructure learning opportunities
+
+---
+
+### 📫 Connect with me
 - Twitter: [@ascii_pius](https://twitter.com/ascii_pius)
 - LinkedIn: [Pius Aaron](https://linkedin.com/in/Pius_aaron042)
 
+---
 
-[![Pius' GitHub stats](https://github-readme-stats.vercel.app/api?username=pius-aaron04)](https://github.com/anuraghazra/github-readme-stats)
+![Pius' GitHub stats](https://github-readme-stats.vercel.app/api?username=pius-aaron04&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pius-aaron04&layout=compact&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pius-aaron04&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![](https://komarev.com/ghpvc/?username=Pius-aaron04)
+![](https://komarev.com/ghpvc/?username=pius-aaron04)
