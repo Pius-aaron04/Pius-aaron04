@@ -1,6 +1,10 @@
-### Hi, I’m Pius Aaron 👋
+### Hi, I’m Pius 👋
 
-I’m a backend-focused software engineer who enjoys building reliable systems, designing clean APIs, and debugging problems others overlook. I’m especially interested in how things work under the hood — from databases to Linux environments.
+I’m a backend-oriented software engineer working mainly with Python and Node.js. I build RESTful APIs and backend systems with a focus on reliability, security, and clean architecture.
+
+I enjoy solving backend problems such as data modeling, API design, and debugging subtle issues in systems. I’m particularly interested in developer tools, productivity software, and consumer products that have real-world impact.
+
+I’m currently learning FastAPI and deepening my understanding of backend system design.
 
 ---
 
